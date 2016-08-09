@@ -1,0 +1,21 @@
+/*p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p:hover {
+  text-decoration: underline;
+}*/
+
+#initially-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
