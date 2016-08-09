@@ -7,15 +7,43 @@ p:hover {
   text-decoration: underline;
 }*/
 
-#initially-showing {
+#data img {
   display: none;
 }
+
+#data-spaz img {
+  display: none;
+}
+
+#data-poker img {
+  display: none;
+}
+
 
 .clickable {
   cursor: pointer;
   color: #0088cc;
 }
 
+.open {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.sesame {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+
 .clickable:hover {
+  text-decoration: underline;
+}
+
+.open:hover {
+  text-decoration: underline;
+}
+
+.sesame:hover {
   text-decoration: underline;
 }
